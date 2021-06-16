@@ -1,2 +1,3 @@
-# inu-bakery
-Documenting Inu Bakery project
+# TAM SWEET
+## Description
+Repo contains sample BA's works on TAM-SWEET project
